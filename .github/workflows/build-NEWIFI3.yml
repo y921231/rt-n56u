@@ -1,4 +1,4 @@
-name: Build NEWIFI3
+name: Build NEWIFI33
 
 on: 
   release:
